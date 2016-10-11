@@ -2,7 +2,7 @@ package domain;
 
 /**
  *
- * @author Jonathan
+ * @author Peter
  */
 public class Team {
     int id,fk_lastbil;
